@@ -3,8 +3,10 @@ The EntertainMe App is built using Next and the styling is tailwindCss. In tis a
 
 BLOCKERS EXPERIENCED:
 1. How to make tailwindCss work on NextJs
+2. I had isues with making the page show when run on the browser. It was initially showing 404 error.
 
 
 Solutions? Resources Used in resolving the issues.
 1. Resolved seeking help from a senior developer wo helped by directing me on how to differentaite when to use npm run build and npm run dev
 Basically, Npm run dev command is used when the development process is ongoing, wile Npm run build is used during final production.
+2. Change the file route from app file loaction into the main folder entertainme folder 
